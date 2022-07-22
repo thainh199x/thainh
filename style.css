@@ -1,0 +1,31 @@
+/*
+body::before {
+  margin-bottom: 100px;
+  content: "";
+  height: 50px;
+} */
+
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(css.png);
+  height: 100%;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(html.jpeg);
+  height: 100%;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(js.jpeg);
+  height: 100%;
+}
+
+.carousel-inner {
+  height: 70vh;
+}
